@@ -6,7 +6,7 @@
   },
   "description": "Network monitor in developer tools",
   "dependencies": {
-    "codemirror": "^5.24.2",
+    "codemirror": "^5.58.2",
     "devtools-config": "=0.0.12",
     "devtools-contextmenu": "=0.0.3",
     "devtools-launchpad": "=0.0.103",
